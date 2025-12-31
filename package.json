@@ -5,10 +5,10 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "apollo-boost": "^0.4.3",
     "apollo-server": "^2.6.7",
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "express-graphql": "^0.8.0",
     "graphql": "^14.4.1",
     "react-apollo": "^2.5.8"
